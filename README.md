@@ -5,9 +5,9 @@ Just simple one class implementations I made while I was learning these algorith
 
 The following are included:
 
--standard dp solution to the knapsack problem/n
+-standard dp solution to the knapsack problem
 
--Computing strongly connected components (SCCs)/n
+-Computing strongly connected components (SCCs)
 
 -Dijkestra's shortest path 
 
